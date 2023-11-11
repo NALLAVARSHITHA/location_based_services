@@ -1,5 +1,5 @@
-A Search Module can be used to:-
+A Search Module can be used to:
 Search for Content:
-    users can search for specific content on a site,such as users or particular words.
+    users can search for specific content on a site,such as users or particular words
 Display a Search box:
-    Users can Type a particular name to search the contents of an app.
+    Users can Type a particular name to search the app
