@@ -1,7 +1,7 @@
 # location_based_services
-list.html
-view.html
-add.html
-delete.html
-edit.html
-search.html
+list.html<br>
+view.html<br>
+add.html<br>
+delete.html<br>
+edit.html<br>
+search.html<br>
